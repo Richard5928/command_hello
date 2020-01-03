@@ -1,4 +1,7 @@
 
+// For command line git tutorial
+// Local repository modification
+
 public class hello {
 
 	public static void main(String args[]) {
